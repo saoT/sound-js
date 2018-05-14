@@ -4,6 +4,11 @@
   height: 100px;
 }
 
+
+#beatbox {
+  background-color: grey;
+}
+
 .red {
   background-color: red;
 }
